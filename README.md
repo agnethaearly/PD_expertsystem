@@ -3,5 +3,6 @@ In Indonesia, the number of people with personality disorders reaches up to 5 pe
 
 - This project is an expert system created as an ALTERNATIVE for early diagnosis of personality disorder.
 - Method used is Certainty Factor.
+- Languages used: PHP & SQL
 - The system uses relational database management system for a two-level admin authorization, namely Admin and Human Expert.
 - For education purposes only. Contact me for help or full documentation of the code.
